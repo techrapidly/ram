@@ -1,6 +1,6 @@
 # ram
 
-[![ram](get-startted.png)](https://github.com/techrapidly/ram)
+[![ram](get-startted.png)](https://icncomputer.com/what-is-ram/)
 
 RAM (Random Access Memory) is the hardware in a computing device where the operating system (OS), application programs and data in current use are kept so they can be quickly reached by the device's processor. RAM is the main memory in a computer. It is much faster to read from and write to than other kinds of storage, such as a hard disk drive (HDD), solid-state drive (SSD) or optical drive.
 
